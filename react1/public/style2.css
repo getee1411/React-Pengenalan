@@ -1,0 +1,19 @@
+.judul{
+    color: maroon;
+    font-family: Tahoma;
+    font-size: 25px;
+}
+
+.subJudul{
+    color: navy;
+    font-family: serif;
+    font-size: 15px;
+}
+
+
+.btn{
+    width: 50%;
+    height: 62px;
+    align-content: center;
+    background-color: green;
+}
